@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="glow1" cx="20%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#3d8ef8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#090b10" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="85%" cy="15%" r="50%">
+      <stop offset="0%" stop-color="#f4a41a" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#090b10" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#090b10"/>
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+
+  <!-- Border frame -->
+  <rect x="32" y="32" width="1136" height="566" rx="12" fill="none" stroke="#252f45" stroke-width="1"/>
+
+  <!-- Left accent bar -->
+  <rect x="72" y="120" width="4" height="200" rx="2" fill="#f4a41a"/>
+
+  <!-- Brand badge -->
+  <rect x="72" y="64" width="160" height="32" rx="6" fill="#141923"/>
+  <rect x="72" y="64" width="160" height="32" rx="6" fill="none" stroke="#252f45" stroke-width="1"/>
+  <text x="152" y="84" font-family="Arial, sans-serif" font-weight="900" font-size="12" fill="#f4a41a" text-anchor="middle" letter-spacing="1">TU APUNTE UTN</text>
+
+  <!-- Main headline -->
+  <text x="92" y="186" font-family="Arial, sans-serif" font-weight="900" font-size="78" fill="#edf0f8" letter-spacing="-2">Los apuntes</text>
+  <text x="92" y="270" font-family="Arial, sans-serif" font-weight="900" font-size="78" fill="#edf0f8" letter-spacing="-2">que te llevan</text>
+  <text x="92" y="354" font-family="Arial, sans-serif" font-weight="900" font-size="78" fill="#f4a41a" letter-spacing="-2">a aprobar.</text>
+
+  <!-- Subtext -->
+  <text x="92" y="410" font-family="Arial, sans-serif" font-weight="400" font-size="22" fill="#68758f">Una unidad gratis · Compra por WhatsApp · PDF digital</text>
+
+  <!-- Cards AED -->
+  <rect x="92" y="450" width="200" height="112" rx="8" fill="#0f1218" stroke="#252f45" stroke-width="1"/>
+  <rect x="92" y="450" width="200" height="4" rx="2" fill="#f4a41a"/>
+  <text x="104" y="476" font-family="Arial, sans-serif" font-weight="900" font-size="11" fill="#f4a41a" letter-spacing="1">PARCIAL 16/05</text>
+  <text x="104" y="502" font-family="Arial, sans-serif" font-weight="900" font-size="28" fill="#edf0f8" letter-spacing="-1">AED</text>
+  <text x="104" y="524" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#68758f">Algoritmos y Est. Discretas</text>
+  <text x="104" y="548" font-family="Arial, sans-serif" font-weight="900" font-size="18" fill="#f4a41a">desde $1400</text>
+
+  <!-- Cards AGA -->
+  <rect x="308" y="450" width="200" height="112" rx="8" fill="#0f1218" stroke="#252f45" stroke-width="1"/>
+  <rect x="308" y="450" width="200" height="4" rx="2" fill="#f4a41a"/>
+  <text x="320" y="476" font-family="Arial, sans-serif" font-weight="900" font-size="11" fill="#f4a41a" letter-spacing="1">PARCIAL 18/05</text>
+  <text x="320" y="502" font-family="Arial, sans-serif" font-weight="900" font-size="28" fill="#edf0f8" letter-spacing="-1">AGA</text>
+  <text x="320" y="524" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#68758f">Algebra y Geom. Analitica</text>
+  <text x="320" y="548" font-family="Arial, sans-serif" font-weight="900" font-size="18" fill="#f4a41a">desde $1800</text>
+
+  <!-- Card gratis -->
+  <rect x="524" y="450" width="200" height="112" rx="8" fill="#0f1218" stroke="#252f45" stroke-width="1"/>
+  <rect x="524" y="450" width="200" height="4" rx="2" fill="#22c55e"/>
+  <text x="536" y="476" font-family="Arial, sans-serif" font-weight="900" font-size="11" fill="#22c55e" letter-spacing="1">MUESTRA</text>
+  <text x="536" y="502" font-family="Arial, sans-serif" font-weight="900" font-size="28" fill="#edf0f8" letter-spacing="-1">Gratis</text>
+  <text x="536" y="524" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#68758f">1 unidad de prueba</text>
+  <text x="536" y="548" font-family="Arial, sans-serif" font-weight="900" font-size="18" fill="#22c55e">PDF inmediato</text>
+
+  <!-- Right decorative panel mockup -->
+  <rect x="820" y="100" width="320" height="430" rx="10" fill="#0f1218" stroke="#252f45" stroke-width="1"/>
+  <rect x="820" y="100" width="320" height="52" rx="10" fill="#141923"/>
+  <rect x="820" y="140" width="320" height="12" fill="#141923"/>
+  <text x="840" y="132" font-family="Arial, sans-serif" font-weight="900" font-size="11" fill="#68758f" letter-spacing="1">DISPONIBLE AHORA</text>
+
+  <rect x="840" y="172" width="280" height="60" rx="6" fill="#141923" stroke="#252f45" stroke-width="1"/>
+  <text x="858" y="198" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#68758f">AED — Algoritmos y Est. Discretas</text>
+  <text x="1096" y="198" font-family="Arial, sans-serif" font-weight="900" font-size="14" fill="#f4a41a" text-anchor="end">16/05</text>
+  <text x="858" y="220" font-family="Arial, sans-serif" font-weight="900" font-size="13" fill="#edf0f8">8 unidades disponibles</text>
+
+  <rect x="840" y="244" width="280" height="60" rx="6" fill="#141923" stroke="#252f45" stroke-width="1"/>
+  <text x="858" y="270" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#68758f">AGA — Algebra y Geom. Analitica</text>
+  <text x="1096" y="270" font-family="Arial, sans-serif" font-weight="900" font-size="14" fill="#f4a41a" text-anchor="end">18/05</text>
+  <text x="858" y="292" font-family="Arial, sans-serif" font-weight="900" font-size="13" fill="#edf0f8">4 unidades disponibles</text>
+
+  <rect x="840" y="328" width="280" height="52" rx="6" fill="#f4a41a"/>
+  <text x="980" y="358" font-family="Arial, sans-serif" font-weight="900" font-size="15" fill="#000000" text-anchor="middle">Descargar muestra gratis</text>
+
+  <!-- Bottom line decorative -->
+  <rect x="72" y="598" width="120" height="2" rx="1" fill="#f4a41a" opacity="0.5"/>
+</svg>
